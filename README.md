@@ -13,19 +13,19 @@ I looked at the below questions:
 2. Most prominent causes of death are: Diseases of Heart, Malignant Neoplasms (Cancer). More number of deaths due to heart disease maybe due to improper lifestyle of junk food diet, lack of exercise and stress.
 3. Assault, Parkinson's Disease are only affecting males.
 4. Males have a higher chance of death due to :
-  - Accidents Except Drug Poisoning,
-  - Liver Disease and Cirrhosis,
-  - HIV,
-  - Intentional Self-Harm (Suicide),
-  - Mental Disorders - Accidental Poisoning
+    - Accidents Except Drug Poisoning,
+    - Liver Disease and Cirrhosis,
+    - HIV,
+    - Intentional Self-Harm (Suicide),
+    - Mental Disorders - Accidental Poisoning
 5. Females have a higher chance of death due to :
-  - Alzheimer's Disease,
-  - Cerebrovascular Disease (Stroke),
-  - Lower Respiratory Diseases,
-  - Hypertension and Renal Diseases,
-  - Influenza and Pneumonia,
-  - Nephritis,
-  - Septicemia
+   - Alzheimer's Disease,
+    - Cerebrovascular Disease (Stroke),
+    - Lower Respiratory Diseases,
+    - Hypertension and Renal Diseases,
+    - Influenza and Pneumonia,
+    - Nephritis,
+    - Septicemia
 6. Causes of death vary for each race. For details, see information below.
 7. Deaths due to Alzheimer's Disease, Cerebrovascular Disease, Liver Disease, Respiratory Diseases, Diabetes, Hypertension and Renal Diseases, Accidental Poisoning and Other Psychoactive Substance Use, Parkinson's Disease and Perinatal Conditions have increased over the years. More research on how to develop drugs to avoid or cure these diseases can be undertaken.
 8. Deaths due to Assault, Congenital Malformations, HIV, Nephrotic Syndrome and Nephrisis, Viral Hepatitis have decreased over the years. This information can be useful to see if new drugs are effective in reducing the count.
