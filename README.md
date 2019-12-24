@@ -38,6 +38,3 @@ To view the code and graphs accurately, please __[click on this link](https://nb
 - Download the source JSON file on your local folder.
 - Download the .ipynb (Jupyter file) and place it in the same folder as the source files.
 - Install the requirements using pip install -r requirements.txt. (Make sure you use Python 3.)
-
-
-https://nbviewer.jupyter.org/github/phtelang/Causes-of-Death-in-New-York-City/blob/master/Causes%20of%20Death%20in%20New%20York%20City.ipynb
